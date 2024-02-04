@@ -13,4 +13,4 @@ interesting trends over time within publicly available county data.
 
 ## Filtering / Viewing
 Analysis should be done on a monthly basis to observe trends.
-There should be an option to filter data on Wilmington incorporated lots only.
+There should be options to filter data on Wilmington incorporated lots only, and residential zoned lots.
